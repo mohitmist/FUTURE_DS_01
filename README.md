@@ -1,7 +1,7 @@
 📊 FUTURE_DS_01 – Supermarket Sales Dashboard
 Power BI | Data Science & Analytics Internship – Task 1
 
-This project analyzes Supermarket Sales Data using Power BI for the years 2011–2014.
+This project analyzes Supermarket Sales Data using Power BI for the years 2019–2020.
 The goal is to identify key sales trends, best-performing product categories, regional behavior, and profit insights through an interactive dashboard.
 
 This fulfills Task 1: Business Sales Dashboard for the Future Interns Data Science & Analytics Internship.
